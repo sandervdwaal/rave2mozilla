@@ -1,0 +1,27 @@
+{  
+      "version": "0.1",  
+      "name": "Rave2Mozilla",  
+      "description": "Get a W3C widget as a webapp!",  
+      "launch_path": "/butterfly/index.html",  
+      "icons": {  
+        "16": "/butterfly/images/icon-16.png",  
+        "48": "/butterfly/images/icon-48.png",  
+        "128": "/butterfly/images/icon-128.png"  
+      },  
+      "developer": {  
+        "name": "Sander van der Waal",  
+        "url": "http://uk.linkedin.com/in/sandervanderwaal"  
+      },  
+      "installs_allowed_from": [  
+        "https://marketplace.mozilla.org"  
+      ],  
+      "locales": {  
+        "nl": {  
+          "description": "Elke W3C widget of OpenSocial gadget als een webapp!",  
+          "developer": {  
+            "url": "http://uk.linkedin.com/in/sandervanderwaal"  
+          }  
+        }  
+      },  
+      "default_locale": "en"  
+} 

@@ -4,9 +4,9 @@
       "description": "Get a W3C widget as a webapp!",  
       "launch_path": "/butterfly/index.html",  
       "icons": {  
-        "16": "http://mozillalabs.com/img/icon-16.png",  
-        "48": "http://mozillalabs.com/img/icon-48.png",  
-        "128": "http://mozillalabs.com/img/icon-128.png"  
+        "16": "/butterfly/images/icon-16.png",  
+        "48": "/butterfly/images/icon-48.png",  
+        "128": "/butterfly/images/icon-128.png"  
       },  
       "developer": {  
         "name": "Sander van der Waal",  
